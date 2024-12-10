@@ -6,5 +6,10 @@ además los datos que quedan registrados han sido modificados posteriormente par
 
 Devuelve dos tipos de datos, uno plano solo con columnas para su posterior postprocesado de ser necesario y uno con cierto formato con mejor apreciación.
 
+Forma de uso:
+-Para lanzarlo solo hace falta correr el lector: py lector.py
+-Recopilará desde la carpeta ficheros todas las facturas con cierto formato (Iberdrola)
+-Devuelve la hoja de cálculo rellena en la carpeta principal
+
 El único propósito de este repositorio es didáctico, quería aprender y mostrar como escanear un pdf con un formato específico, puesto que es raro, suelen escanearse csv planos.
 además de ayudar a alguien.
